@@ -1,0 +1,49 @@
+/* Định dạng Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #0079BF;
+    padding: 10px 20px;
+    color: white;
+}
+
+.navbar .menu {
+    display: flex;
+    list-style: none;
+}
+
+.navbar .menu li {
+    margin: 0 10px;
+}
+
+.navbar .menu li a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Dropdown menu */
+.submenu {
+    display: none;
+    position: absolute;
+    background: white;
+    list-style: none;
+    padding: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.dropdown:hover .submenu {
+    display: block;
+}
+
+/* Sidebar */
+.sidebar {
+    width: 250px;
+    background: #F4F5F7;
+    padding: 20px;
+    height: 100vh;
+}
+
+#workspace-list {
+    list-style: none;
+}
