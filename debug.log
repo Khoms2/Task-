@@ -1,0 +1,501 @@
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"mark_all_notifications_as_read","workspace_id":"1"}
+POST data: {"action":"mark_all_notifications_as_read","workspace_id":"1"}
+POST data: {"action":"mark_all_notifications_as_read","workspace_id":"1"}
+POST data: {"action":"mark_all_notifications_as_read","workspace_id":"1"}
+POST data: {"action":"mark_all_notifications_as_read","workspace_id":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+POST data: {"action":"update_card_list","card_id":"52","new_list_id":"45"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+POST data: {"action":"update_card_list","card_id":"65","new_list_id":"45"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+POST data: {"action":"update_card_list","card_id":"69","new_list_id":"45"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+POST data: {"action":"update_card_list","card_id":"33","new_list_id":"48"}
+POST data: {"action":"toggle_card_completion","card_id":"53","completed":"1"}
+POST data: {"action":"filter_lists_and_cards","workspace_id":"1","filter_type":"all"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_nearing_due_cards","workspace_id":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"send_gmail_notification","card_id":"1","card_title":"Test Card","due_date":"2025-04-05 12:00:00","workspace_id":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+POST data: {"action":"get_notifications","workspace_id":"1","page":"1"}
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
+Workspace ID: 1
+Số lượng người nhận: 1
+Danh sách email: [{"email":"dongtao805@gmail.com"}]
