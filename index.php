@@ -50,11 +50,12 @@ $lists = $stmt->fetchAll(PDO::FETCH_ASSOC);
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css" rel="stylesheet">
+ 
     <style>
         body {
             background-color: #f4f5f7;
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            padding: 20px;
+            padding: 20px 10px;
         }
         .header {
             background-color: #0079bf;
@@ -65,6 +66,7 @@ $lists = $stmt->fetchAll(PDO::FETCH_ASSOC);
             justify-content: space-between;
             align-items: center;
             margin-bottom: 20px;
+            flex-wrap: wrap;
         }
         .header h1 {
             margin: 0;
@@ -78,6 +80,7 @@ $lists = $stmt->fetchAll(PDO::FETCH_ASSOC);
             justify-content: space-between;
             align-items: center;
             margin-bottom: 20px;
+            gap: 10px;
         }
         .navbar-left, .navbar-right {
             display: flex;
@@ -162,6 +165,7 @@ $lists = $stmt->fetchAll(PDO::FETCH_ASSOC);
             gap: 12px;
             overflow-x: auto;
             padding: 10px 0;
+            flex-wrap: nowrap;
         }
         .list {
             background-color: #ebecf0;
@@ -173,6 +177,7 @@ $lists = $stmt->fetchAll(PDO::FETCH_ASSOC);
             position: relative;
             flex-shrink: 0;
             transition: opacity 0.3s ease;
+            max-width: 100%;
         }
         .list.loading {
             opacity: 0.5;
@@ -386,6 +391,7 @@ $lists = $stmt->fetchAll(PDO::FETCH_ASSOC);
             border-radius: 20px;
             padding: 5px 10px 5px 30px;
             font-size: 14px;
+            max-width: 100%;
         }
         #searchInput:focus {
             outline: none;
@@ -400,6 +406,7 @@ $lists = $stmt->fetchAll(PDO::FETCH_ASSOC);
             cursor: pointer;
             color: #5e6c84;
         }
+        
         #clearSearch:hover {
             color: #172b4d;
         }
@@ -426,6 +433,119 @@ $lists = $stmt->fetchAll(PDO::FETCH_ASSOC);
         @keyframes fadeInRight {
             from { opacity: 0; transform: translate3d(20px, 0, 0); }
             to { opacity: 1; transform: translate3d(0, 0, 0); }
+        }
+        @media screen and (max-width: 768px) {
+        .header h1 {
+            font-size: 1.2rem; /* Giảm kích thước chữ trên tablet */
+        }
+
+        .navbar-left, .navbar-right {
+            flex-wrap: wrap; /* Cho phép các nút xuống dòng */
+            gap: 5px;
+        }
+
+        .notification-dropdown {
+            width: 100%; /* Chiều rộng full trên mobile */
+            max-height: 300px;
+        }
+
+        .list {
+            width: 240px; /* Giảm chiều rộng list */
+        }
+
+        #searchInput {
+            width: 100%; /* Full width trên tablet */
+        }
+            }
+
+            @media screen and (max-width: 480px) {
+                .header {
+                    padding: 8px 10px;
+                    flex-direction: column; /* Xếp dọc trên mobile */
+                    text-align: center;
+                }
+
+                .header h1 {
+                    font-size: 1rem;
+                }
+
+                .navbar {
+                    padding: 6px 10px;
+                    flex-direction: column;
+                    align-items: flex-start;
+                }
+
+                .navbar-left, .navbar-right {
+                    width: 100%; /* Full width trên mobile */
+                    justify-content: flex-start;
+                }
+
+                .notification-bell {
+                    font-size: 14px;
+                    padding: 4px 8px;
+                }
+
+                .notification-item {
+                    font-size: 12px;
+                    padding: 8px 10px;
+                }
+
+                .list {
+                    width: 100%; /* Full width trên mobile */
+                    margin-bottom: 10px;
+                }
+
+                .card-content strong {
+                    font-size: 13px;
+                }
+
+                .card-content p {
+                    font-size: 11px;
+                }
+
+                .add-list-form input, 
+                .add-card-form input, 
+                .add-card-form textarea {
+                    font-size: 13px;
+                }
+
+                .btn-primary {
+                    font-size: 13px;
+                    padding: 5px 10px;
+                }
+            }
+
+            body {
+        margin: 0;
+        height: 100vh;
+
+        cursor: none; /* Ẩn con trỏ mặc định */
+        overflow: hidden; /* Ngăn scroll nếu hoa bay ra ngoài */
+        }
+
+        .flower {
+
+        position: fixed;
+        width: 50px;
+        height: 30px;
+        background: url('./img/iconvn.png') no-repeat center;
+        background-size: contain;
+        pointer-events: none;
+        z-index: 9999;
+        opacity: 0.8;
+        animation: float 2s ease-in-out forwards; /* Hiệu ứng bay */
+        }
+
+        /* Hiệu ứng bay loang ra */
+        @keyframes float {
+        0% {
+            transform: translate(0, 0) scale(1);
+            opacity: 0.8;
+        }
+        100% {
+            transform: translate(var(--tx), var(--ty)) scale(0.5); /* Bay ngẫu nhiên */
+            opacity: 0; /* Mờ dần */
+        }
         }
     </style>
 </head>
@@ -514,7 +634,7 @@ $lists = $stmt->fetchAll(PDO::FETCH_ASSOC);
                     <h5 class="modal-title" id="viewCollaboratorsModalLabel">Danh sách người được chia sẻ</h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
-                <div class="modal-body">
+                <div class="modal-body" >
                     <table class="table">
                         <thead>
                             <tr>
@@ -1765,8 +1885,103 @@ $lists = $stmt->fetchAll(PDO::FETCH_ASSOC);
 //     .catch(error => console.error('Lỗi khi lấy thẻ sắp hết hạn:', error));
 // }
 
-// Gọi hàm này định kỳ, ví dụ mỗi 5 phút
-setInterval(checkNearingDueCards, 30000); // 300000ms = 5 phút
+
+// setInterval(checkNearingDueCards, 30000); 
+// Hàm kiểm tra và gửi thông báo cho thẻ sắp hết hạn
+function checkNearingDueCards() {
+    fetch('api.php', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+        },
+        body: new URLSearchParams({
+            'action': 'get_nearing_due_cards',
+            'workspace_id': <?php echo $workspace_id; ?>
+        })
+    })
+    .then(response => response.json())
+    .then(data => {
+        if (data.success && data.cards.length > 0) {
+            data.cards.forEach(card => {
+                const now = new Date();
+                const dueDate = new Date(card.due_date);
+                const timeDiff = dueDate - now;
+                const hoursUntilDue = timeDiff / (1000 * 60 * 60);
+
+                // Chỉ gửi thông báo nếu thẻ chưa hoàn thành và còn dưới 24 giờ
+                if (hoursUntilDue <= 24 && hoursUntilDue >= 0 && !card.completed) {
+                    // Kiểm tra xem thông báo đã được gửi chưa (dùng localStorage hoặc API)
+                    const notificationKey = `notified_card_${card.id}`;
+                    if (!localStorage.getItem(notificationKey)) {
+                        fetch('api.php', {
+                            method: 'POST',
+                            headers: {
+                                'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+                            },
+                            body: new URLSearchParams({
+                                'action': 'send_gmail_notification',
+                                'workspace_id': <?php echo $workspace_id; ?>,
+                                'card_id': card.id,
+                                'card_title': card.title,
+                                'due_date': card.due_date
+                            })
+                        })
+                        .then(response => response.json())
+                        .then(result => {
+                            if (result.success) {
+                                console.log(`Đã gửi thông báo cho thẻ "${card.title}"!`);
+                                showToast('success', `Đã gửi thông báo cho "${card.title}"!`);
+                                // Đánh dấu là đã gửi thông báo
+                                localStorage.setItem(notificationKey, 'true');
+                            } else {
+                                console.error('Lỗi khi gửi thông báo:', result.message);
+                            }
+                        })
+                        .catch(error => console.error('Lỗi khi gửi thông báo Gmail:', error));
+                    }
+                }
+            });
+        }
+    })
+    .catch(error => console.error('Lỗi khi lấy thẻ sắp hết hạn:', error));
+}
+
+// Khởi tạo khi trang tải
+$(document).ready(function() {
+    moment.locale('vi');
+    initializeSortable();
+    fetchNotifications();
+    setInterval(() => fetchNotifications(1), 10000); // Cập nhật thông báo mỗi 10 giây
+    checkNearingDueCards(); // Gọi lần đầu
+    setInterval(checkNearingDueCards, 300000); // Gọi lại mỗi 5 phút
+});
+
+//  API contro
+document.addEventListener("mousemove", (e) => {
+  // Tạo bông hoa mới
+  const flower = document.createElement("div");
+  flower.classList.add("flower");
+
+  // Đặt vị trí ban đầu tại con trỏ
+  flower.style.left = `${e.clientX - 10}px`; // Căn giữa (20px / 2)
+  flower.style.top = `${e.clientY - 10}px`;
+
+  // Tạo hướng bay ngẫu nhiên
+  const tx = (Math.random() - 0.5) * 100; // Bay ngang ±50px
+  const ty = (Math.random() - 0.5) * 100; // Bay dọc ±50px
+  flower.style.setProperty("--tx", `${tx}px`);
+  flower.style.setProperty("--ty", `${ty}px`);
+
+  // Thêm vào body
+  document.body.appendChild(flower);
+
+  // Xóa hoa sau khi hiệu ứng kết thúc
+  setTimeout(() => {
+    flower.remove();
+  }, 2000); // 2 giây (phải khớp với thời gian animation trong CSS)
+});
     </script>
+    
 </body>
 </html>
+

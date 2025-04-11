@@ -1,6 +1,6 @@
 <?php
 session_start();
-header('Content-Type: application/json');
+header('Content-Type: application/json; charset=UTF-8');
 
 // Tắt hiển thị lỗi trên production (để tránh rò rỉ thông tin nhạy cảm)
 ini_set('display_errors', 0);
@@ -1421,7 +1421,7 @@ switch ($action) {
             require_once 'vendor/PHPMailer/PHPMailer/src/SMTP.php';
 
             $mail = new PHPMailer\PHPMailer\PHPMailer(true);
-
+            $mail->CharSet = 'UTF-8';
             $mail->isSMTP();
             $mail->Host = 'smtp.gmail.com';
             $mail->SMTPAuth = true;
